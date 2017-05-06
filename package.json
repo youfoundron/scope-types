@@ -9,7 +9,11 @@
     "lint": "standard | snazzy"
   },
   "devDependencies": {
+    "babel-loader": "^7.0.0",
+    "babel-register": "^6.24.1",
     "snazzy": "^7.0.0",
-    "standard": "^10.0.2"
+    "standard": "^10.0.2",
+    "webpack": "^2.5.1",
+    "webpack-make-rule": "^2.0.0"
   }
 }
