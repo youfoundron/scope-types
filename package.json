@@ -4,5 +4,9 @@
   "description": "Helper function for scoping a list of action types.",
   "main": "lib/index.js",
   "repository": "https://github.com/rongierlach/scope-types",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.2"
+  }
 }
