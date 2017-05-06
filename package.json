@@ -6,6 +6,7 @@
   "repository": "https://github.com/rongierlach/scope-types",
   "license": "GPL-3.0",
   "scripts": {
+    "build": "webpack",
     "lint": "standard | snazzy"
   },
   "devDependencies": {
