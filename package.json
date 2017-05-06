@@ -1,0 +1,8 @@
+{
+  "name": "scope-types",
+  "version": "1.0.0",
+  "description": "Helper function for scoping a list of action types.",
+  "main": "lib/index.js",
+  "repository": "https://github.com/rongierlach/scope-types",
+  "license": "GPL-3.0"
+}
