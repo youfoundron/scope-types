@@ -6,6 +6,7 @@
   "repository": "https://github.com/rongierlach/scope-types",
   "license": "GPL-3.0",
   "scripts": {
+    "prepublish": "npm run clean && npm run build",
     "clean": "rimraf lib",
     "build": "webpack",
     "lint": "standard | snazzy",
