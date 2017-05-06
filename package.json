@@ -5,6 +5,9 @@
   "main": "lib/index.js",
   "repository": "https://github.com/rongierlach/scope-types",
   "license": "GPL-3.0",
+  "scripts": {
+    "lint": "standard | snazzy"
+  },
   "devDependencies": {
     "snazzy": "^7.0.0",
     "standard": "^10.0.2"
