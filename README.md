@@ -30,3 +30,6 @@ actionTypes = {
 
 export default actionTypes
 ```
+
+## Usage With Redux Logger
+If you are planning on using with [Redux Logger](https://github.com/evgenyrodionov/redux-logger) be sure to look at this [issue](https://github.com/evgenyrodionov/redux-logger/pull/106).
