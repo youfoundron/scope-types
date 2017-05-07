@@ -1,9 +1,19 @@
 {
   "name": "scope-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper function for scoping a list of action types.",
+  "keywords": [
+    "scoped",
+    "types",
+    "redux",
+    "actions",
+    "react"
+  ],
   "main": "lib/index.js",
-  "repository": "https://github.com/rongierlach/scope-types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rongierlach/react-redux-collect.git"
+  },
   "license": "GPL-3.0",
   "scripts": {
     "prepublish": "npm run clean && npm run build",
