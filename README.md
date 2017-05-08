@@ -2,7 +2,7 @@
 
 Helper function for scoping a list of action types.
 
-[![Build Status](https://travis-ci.org/rongierlach/scope-types.svg?branch=master)](https://travis-ci.org/rongierlach/scope-types) [![Dependency Status](https://david-dm.org/rongierlach/scope-types.svg)](https://david-dm.org/rongierlach/scope-types) [![devDependency Status](https://david-dm.org/rongierlach/scope-types/dev-status.svg)](https://david-dm.org/rongierlach/scope-types#info=devDependencies) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)  
+[![Build Status](https://travis-ci.org/rongierlach/scope-types.svg?branch=master)](https://travis-ci.org/rongierlach/scope-types) [![Coverage Status](https://coveralls.io/repos/github/rongierlach/scope-types/badge.svg?branch=master)](https://coveralls.io/github/rongierlach/scope-types?branch=master) [![Dependency Status](https://david-dm.org/rongierlach/scope-types.svg)](https://david-dm.org/rongierlach/scope-types) [![devDependency Status](https://david-dm.org/rongierlach/scope-types/dev-status.svg)](https://david-dm.org/rongierlach/scope-types#info=devDependencies) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)  
 
 ## Installation
 Using npm:  
