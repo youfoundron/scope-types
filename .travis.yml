@@ -3,3 +3,4 @@ node_js: node
 cache: yarn
 script:
   - npm run coverage
+  - npm run coveralls
